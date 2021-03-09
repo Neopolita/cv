@@ -37,7 +37,7 @@
 | Dustland | Smash Supreme | Notorious 99 |
 | :---: | :---: | :---: |
 | [![Dustland](http://img.youtube.com/vi/up7XVYRfiW0/0.jpg)](http://www.youtube.com/watch?v=up7XVYRfiW0) | [![Smash Supreme](http://img.youtube.com/vi/wmNJFQ48f0U/0.jpg)](http://www.youtube.com/watch?v=wmNJFQ48f0U) | [![Helix Jump](http://img.youtube.com/vi/ojWSzx2M5BM/0.jpg)](http://www.youtube.com/watch?v=ojWSzx2M5BM) |
-| `F/E`- `B/E`<br/>`Database`<br/>`Dev-Ops`<br/>`Live-Ops`<br/>`Tooling` | `F/E`- `B/E`<br/>`Database`<br/>`Dev-Ops`<br/>`Live-Ops`</br>`Networking`<br/>`AI` - `Tooling`<br/>`Bugeye` | `F/E`- `B/E`<br/>`Database`<br/>`Dev-Ops`<br/>`Live-Ops`</br>`Networking`<br/>`AI` - `Tooling` |
+| `F/E` - `B/E`<br/>`Database`<br/>`Dev-Ops`<br/>`Live-Ops`<br/>`Tooling` | `F/E` - `B/E`<br/>`Database`<br/>`Dev-Ops`<br/>`Live-Ops`</br>`Networking`<br/>`AI` - `Tooling`<br/>`Bugeye` | `F/E` - `B/E`<br/>`Database`<br/>`Dev-Ops`<br/>`Live-Ops`</br>`Networking`<br/>`AI` - `Tooling` |
 
 <br/>
 
