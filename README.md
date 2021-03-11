@@ -17,7 +17,7 @@
 
 <br/>
 
-#voodoo
+## voodoo
 ### **VOODOO** .TechLead (*years = 2*)
 > As lead developer at Voodoo London I manage the London tech team and worked on both F/E and Live-Ops for some of the company "Unicorn" games, like Helix Jump, Aquapark.io, Crowd City and Hole.io. I also worked on both F/E and B/E for the real-time multiplayer ECS-based game Crowd World.
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-#gumbug
+## gumbug
 ### **GUMBUG** .CTO (*years = 5*)
 > As CTO at Gumbug I acted as founder, managed the tech team and worked on all technical aspects of our three games: Dustland, a Meta heavy match-3 game; Smash Supreme, a real-time competitive casual multiplayer game with millions of players and a very "e-sporty" community; And Notorious 99, a real-time multiplayer game mixing "Brawl Stars" and "Fortnite". I also worked on Bugeye, a standalone video streaming solution for mobile apps we integrated in Smash Supreme.
 > 
@@ -47,7 +47,7 @@
 
 <br/>
 
-#mindcandy
+## mindcandy
 ### **MIND CANDY** .SeniorDeveloper (*years = 3*)
 > As a senior developer at Mind Candy I worked on the development of the MMO game Moshi Monsters, BAFTA winner and biggest game for kids at UK for several years. I also worked on the mobile match-3 game Moshling Rescue and helped on the development of World of Warriors.
 > 
@@ -62,7 +62,7 @@
 
 <br/>
 
-#freedomfactory
+## freedomfactory
 ### **FREEDOM FACTORY** .Developer (*years = 3*)
 > At Freedom Factory Studios I worked on: Virtual Football, a MMO soccer manager; Naraba World, a 3D kids game for PC and NDS; Baobab Planet, a 3D MMORPG for PC; And Cycling Evolution, a cycling manager for PC.
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-#pyrostudios
+## pyrostudios
 ### **PYRO STUDIOS** .Developer (*years = 1*)
 > At Pyro Studios I worked on the development of Quiz Adventure, a social multiplayer board-game with several multiplayer minigames.
 
@@ -91,7 +91,7 @@
 
 <br/>
 
-#freelance
+## freelance
 ### **FRELANCE** .Developer (*years = 3*)
 > As a freelance I developed web experiences, rich internet applications and Augmented Reality experiences for clients like:
 
@@ -107,7 +107,7 @@
 
 <br/>
 
-#sideprojects
+## sideprojects
 ### **SIDE PROJECTS**
 - **DeFiHub(codename)**: Cryto/DeFi data aggregator, time-series forecaster and DeFi project inter-connection.
 - **Bebop(codename)**: Meta/Multiplayer generalist server solution for games.
